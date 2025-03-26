@@ -9,10 +9,10 @@ dlib
 NumPy
 
 🚀 Installation
-Clone the repository:
+1. Clone the repository:
 git clone https://github.com/your-username/drowsiness-detection.git
 cd drowsiness-detection
-Install dependencies:
+2. Install dependencies:
 pip install -r requirements.txt
 Download the shape predictor: Download shape_predictor_68_face_landmarks.dat from here and place it in the project folder.
 
